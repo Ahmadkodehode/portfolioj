@@ -9,6 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("/public/myBg.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
