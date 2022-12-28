@@ -1,10 +1,10 @@
 import React from "react";
-function Main() {
+function Footer() {
   return (
-    <main className=" flex items-center justify-center h-screen">
-      <h1>Hello world</h1>
-    </main>
+    <footer className="">
+      <h3>Hello world</h3>
+    </footer>
   );
 }
 
-export default Main;
+export default Footer;
